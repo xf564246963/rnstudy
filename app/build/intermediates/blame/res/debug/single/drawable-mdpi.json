@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\myStudy\\RN\\GoReactNativeActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\img_ic.png",
+        "source": "D:\\myStudy\\RN\\GoReactNativeActivity\\app\\src\\main\\res\\drawable-mdpi\\img_ic.png"
+    },
+    {
+        "merged": "D:\\myStudy\\RN\\GoReactNativeActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\myStudy\\RN\\GoReactNativeActivity\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
